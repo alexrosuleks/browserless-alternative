@@ -1,0 +1,19 @@
+{
+  "name": "browserless-alternative",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Browserless alternative: run Puppeteer or Playwright in Actors with proxies, storage and schedules included, or use ready-made scrapers. Compared with units.",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "keywords": [
+    "scraper",
+    "web-scraping",
+    "scrapely"
+  ],
+  "dependencies": {
+    "scrapely-client": "^2.25.15"
+  },
+  "license": "MIT"
+}
